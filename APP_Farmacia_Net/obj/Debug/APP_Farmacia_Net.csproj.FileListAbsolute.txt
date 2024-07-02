@@ -1,0 +1,10 @@
+D:\Repositorios\UNIR\Actividad2_PL\APP_Farmacia_Net\APP_Farmacia_Net\bin\Debug\APP_Farmacia_Net.exe.config
+D:\Repositorios\UNIR\Actividad2_PL\APP_Farmacia_Net\APP_Farmacia_Net\bin\Debug\APP_Farmacia_Net.exe
+D:\Repositorios\UNIR\Actividad2_PL\APP_Farmacia_Net\APP_Farmacia_Net\bin\Debug\APP_Farmacia_Net.pdb
+D:\Repositorios\UNIR\Actividad2_PL\APP_Farmacia_Net\APP_Farmacia_Net\obj\Debug\APP_Farmacia_Net.csproj.AssemblyReference.cache
+D:\Repositorios\UNIR\Actividad2_PL\APP_Farmacia_Net\APP_Farmacia_Net\obj\Debug\APP_Farmacia_Net.Form1.resources
+D:\Repositorios\UNIR\Actividad2_PL\APP_Farmacia_Net\APP_Farmacia_Net\obj\Debug\APP_Farmacia_Net.Properties.Resources.resources
+D:\Repositorios\UNIR\Actividad2_PL\APP_Farmacia_Net\APP_Farmacia_Net\obj\Debug\APP_Farmacia_Net.csproj.GenerateResource.cache
+D:\Repositorios\UNIR\Actividad2_PL\APP_Farmacia_Net\APP_Farmacia_Net\obj\Debug\APP_Farmacia_Net.csproj.CoreCompileInputs.cache
+D:\Repositorios\UNIR\Actividad2_PL\APP_Farmacia_Net\APP_Farmacia_Net\obj\Debug\APP_Farmacia_Net.exe
+D:\Repositorios\UNIR\Actividad2_PL\APP_Farmacia_Net\APP_Farmacia_Net\obj\Debug\APP_Farmacia_Net.pdb
